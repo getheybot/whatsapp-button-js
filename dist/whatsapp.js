@@ -15,4 +15,4 @@ focus-trap/dist/focus-trap.esm.js:
   * focus-trap 6.9.4
   * @license MIT, https://github.com/focus-trap/focus-trap/blob/master/LICENSE
   *)
-*/window.Alpine===void 0?(window.Alpine=It,window._HeybotStarted=!1):window._HeybotStarted=!0;It.plugin(Va);document.addEventListener("DOMContentLoaded",function(){const r="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.12";let n=document.createElement("link");n.rel="stylesheet",n.href=`${r}/dist/app.css`,document.head.appendChild(n);let i=document.createElement("script");i.src=`${r}/dist/app.js`,document.head.appendChild(i),window._HeybotStarted||(It.start(),window._HeybotStarted=!0)});
+*/window.Alpine===void 0?(window.Alpine=It,window._HeybotStarted=!1):window._HeybotStarted=!0;It.plugin(Va);document.addEventListener("DOMContentLoaded",function(){const r="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.13";let n=document.createElement("link");n.rel="stylesheet",n.href=`${r}/dist/app.css`,document.head.appendChild(n);let i=document.createElement("script");i.src=`${r}/dist/app.js`,document.head.appendChild(i),window._HeybotStarted||(It.start(),window._HeybotStarted=!0)});
