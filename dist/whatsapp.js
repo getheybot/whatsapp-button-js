@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const _cdnUrl = 'https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@';
-    const _cdnUrlVersion = '0.0.2';
-    const _cdnBase = `${_cdnUrl}/${_cdnUrlVersion}`;
+    const _cdnUrl = 'https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js';
+    const _cdnUrlVersion = '0.0.3';
+    const _cdnBase = `${_cdnUrl}@${_cdnUrlVersion}`;
     // Append CSS
     let cssLink = document.createElement("link");
     cssLink.rel = "stylesheet";
