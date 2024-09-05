@@ -19,11 +19,11 @@
         BotPhoneNumber: '521XXXXXXXXXX', // Country Code + 1 + Phone number
         BotUiMessage: `<p>Hi there 👋</p><p>How can I help you?</p>`,
         BotChatMessage: `Hi there 👋`,
-        Open: true
+        OpenWidget: true
     }
 </script>
 
-<script src="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.3/dist/whatsapp.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.5/dist/whatsapp.min.js" async></script>
 </body>
 </html>
 ```
