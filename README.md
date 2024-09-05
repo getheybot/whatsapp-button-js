@@ -23,7 +23,7 @@
     }
 </script>
 
-<script src="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.5/dist/whatsapp.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/getheybot/whatsapp-button-js@0.0.7/dist/whatsapp.min.js" async></script>
 </body>
 </html>
 ```
