@@ -19,7 +19,7 @@
         BotPhoneNumber: '521XXXXXXXXXX', // Country Code + 1 + Phone number
         BotUiMessage: `<p>Hi there 👋</p><p>How can I help you?</p>`,
         BotChatMessage: `Hi there 👋`,
-        OpenWidget: true
+        OpenWidget: !window.matchMedia("only screen and (max-width: 760px)").matches
     }
 </script>
 
